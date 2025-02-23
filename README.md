@@ -1,4 +1,4 @@
-# HR_dashboard
+# HR_Dashboard
 
 
 ## Introduction
